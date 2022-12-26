@@ -709,12 +709,8 @@ a {
 .cid-tqXYu8KYwc .mbr-description {
   text-align: center;
 }
-.cid-tqXYu8KYwc .text-wrapper {
-  padding: 1rem;
-}
 @media (min-width: 992px) {
   .cid-tqXYu8KYwc .text-wrapper {
     padding: 2rem;
-    padding-left: 4rem;
   }
 }
